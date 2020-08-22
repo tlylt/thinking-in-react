@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/tlylt/thinking-in-react/static/css/main.df11ddc1.chunk.css",
-    "main.js": "/tlylt/thinking-in-react/static/js/main.9f7c1622.chunk.js",
-    "main.js.map": "/tlylt/thinking-in-react/static/js/main.9f7c1622.chunk.js.map",
-    "runtime-main.js": "/tlylt/thinking-in-react/static/js/runtime-main.c58ae2aa.js",
-    "runtime-main.js.map": "/tlylt/thinking-in-react/static/js/runtime-main.c58ae2aa.js.map",
-    "static/js/2.52526460.chunk.js": "/tlylt/thinking-in-react/static/js/2.52526460.chunk.js",
-    "static/js/2.52526460.chunk.js.map": "/tlylt/thinking-in-react/static/js/2.52526460.chunk.js.map",
-    "index.html": "/tlylt/thinking-in-react/index.html",
-    "precache-manifest.96afdc1fcec1c4be3332e5c1fceae212.js": "/tlylt/thinking-in-react/precache-manifest.96afdc1fcec1c4be3332e5c1fceae212.js",
-    "service-worker.js": "/tlylt/thinking-in-react/service-worker.js",
-    "static/css/main.df11ddc1.chunk.css.map": "/tlylt/thinking-in-react/static/css/main.df11ddc1.chunk.css.map",
-    "static/js/2.52526460.chunk.js.LICENSE.txt": "/tlylt/thinking-in-react/static/js/2.52526460.chunk.js.LICENSE.txt"
+    "main.css": "/thinking-in-react/static/css/main.df11ddc1.chunk.css",
+    "main.js": "/thinking-in-react/static/js/main.9f7c1622.chunk.js",
+    "main.js.map": "/thinking-in-react/static/js/main.9f7c1622.chunk.js.map",
+    "runtime-main.js": "/thinking-in-react/static/js/runtime-main.6ab0459f.js",
+    "runtime-main.js.map": "/thinking-in-react/static/js/runtime-main.6ab0459f.js.map",
+    "static/js/2.52526460.chunk.js": "/thinking-in-react/static/js/2.52526460.chunk.js",
+    "static/js/2.52526460.chunk.js.map": "/thinking-in-react/static/js/2.52526460.chunk.js.map",
+    "index.html": "/thinking-in-react/index.html",
+    "precache-manifest.e8c3b5a558890d23faa7da233cd32176.js": "/thinking-in-react/precache-manifest.e8c3b5a558890d23faa7da233cd32176.js",
+    "service-worker.js": "/thinking-in-react/service-worker.js",
+    "static/css/main.df11ddc1.chunk.css.map": "/thinking-in-react/static/css/main.df11ddc1.chunk.css.map",
+    "static/js/2.52526460.chunk.js.LICENSE.txt": "/thinking-in-react/static/js/2.52526460.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c58ae2aa.js",
+    "static/js/runtime-main.6ab0459f.js",
     "static/js/2.52526460.chunk.js",
     "static/css/main.df11ddc1.chunk.css",
     "static/js/main.9f7c1622.chunk.js"
