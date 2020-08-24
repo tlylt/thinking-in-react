@@ -1,12 +1,17 @@
 import React, { useState, useEffect } from "react";
 
-function StepNumberBar({ total }) {
+function StepNumberBar({ total, current }) {
+  console.log(current);
   return (
     <div className="stepNumberBar">
       {Array(total)
         .fill(null)
         .map((value, index) => (
-          <span id={index} key={index}>
+          <span
+            id={index}
+            key={index}
+            className={current === index ? "active" : "inactive"}
+          >
             {index}
           </span>
         ))}
@@ -56,16 +61,6 @@ function MoveStepButton({ updatePage, direction }) {
 
 function ReferenceTable({ detail }) {
   const [currPage, updatePage] = useState(0);
-  useEffect(() => {
-    var currP = document.querySelector("span[id='" + currPage + "']");
-    var allSpan = document.querySelectorAll("span");
-    allSpan.forEach((item) => {
-      item.style.color = "black";
-      item.className = item.className.replace(/active/g, "");
-    });
-    currP.style.color = "grey";
-    currP.classList += ["active"];
-  }, [currPage]);
   return (
     <>
       <StepNumberBar total={detail.length} current={currPage} />

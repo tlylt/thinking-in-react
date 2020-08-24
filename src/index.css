@@ -42,8 +42,11 @@ span {
   color: #fee;
   text-shadow: 0 0px 1px, 0 0 1em #fee;
 }
-
+span {
+  color: black;
+}
 span.active {
+  color: grey;
   animation: flicker linear infinite 2s;
 }
 
