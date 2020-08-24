@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/thinking-in-react/static/css/main.df11ddc1.chunk.css",
-    "main.js": "/thinking-in-react/static/js/main.9f7c1622.chunk.js",
-    "main.js.map": "/thinking-in-react/static/js/main.9f7c1622.chunk.js.map",
+    "main.css": "/thinking-in-react/static/css/main.0a45fbf2.chunk.css",
+    "main.js": "/thinking-in-react/static/js/main.ccf68c97.chunk.js",
+    "main.js.map": "/thinking-in-react/static/js/main.ccf68c97.chunk.js.map",
     "runtime-main.js": "/thinking-in-react/static/js/runtime-main.6ab0459f.js",
     "runtime-main.js.map": "/thinking-in-react/static/js/runtime-main.6ab0459f.js.map",
     "static/js/2.52526460.chunk.js": "/thinking-in-react/static/js/2.52526460.chunk.js",
     "static/js/2.52526460.chunk.js.map": "/thinking-in-react/static/js/2.52526460.chunk.js.map",
     "index.html": "/thinking-in-react/index.html",
-    "precache-manifest.e8c3b5a558890d23faa7da233cd32176.js": "/thinking-in-react/precache-manifest.e8c3b5a558890d23faa7da233cd32176.js",
+    "precache-manifest.00f4da4226b128c8b0a2f3f998143f20.js": "/thinking-in-react/precache-manifest.00f4da4226b128c8b0a2f3f998143f20.js",
     "service-worker.js": "/thinking-in-react/service-worker.js",
-    "static/css/main.df11ddc1.chunk.css.map": "/thinking-in-react/static/css/main.df11ddc1.chunk.css.map",
+    "static/css/main.0a45fbf2.chunk.css.map": "/thinking-in-react/static/css/main.0a45fbf2.chunk.css.map",
     "static/js/2.52526460.chunk.js.LICENSE.txt": "/thinking-in-react/static/js/2.52526460.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.6ab0459f.js",
     "static/js/2.52526460.chunk.js",
-    "static/css/main.df11ddc1.chunk.css",
-    "static/js/main.9f7c1622.chunk.js"
+    "static/css/main.0a45fbf2.chunk.css",
+    "static/js/main.ccf68c97.chunk.js"
   ]
 }

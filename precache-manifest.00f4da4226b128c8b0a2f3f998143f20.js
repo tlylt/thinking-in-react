@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2e7b6b7b0a5159522679f0b1ad86bbf0",
+    "revision": "889001cac23ff02d984d61942eaa04cc",
     "url": "/thinking-in-react/index.html"
   },
   {
-    "revision": "987ecce153c0744290c5",
-    "url": "/thinking-in-react/static/css/main.df11ddc1.chunk.css"
+    "revision": "b7d5daaa9e5801dee7b6",
+    "url": "/thinking-in-react/static/css/main.0a45fbf2.chunk.css"
   },
   {
     "revision": "dc1bc39b2b19e105993f",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/thinking-in-react/static/js/2.52526460.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "987ecce153c0744290c5",
-    "url": "/thinking-in-react/static/js/main.9f7c1622.chunk.js"
+    "revision": "b7d5daaa9e5801dee7b6",
+    "url": "/thinking-in-react/static/js/main.ccf68c97.chunk.js"
   },
   {
     "revision": "bfb97644df0cf4bea3f6",
